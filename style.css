@@ -3,12 +3,12 @@
 }
 
 .navbar--nav {
-position:fixed;
-width: 100vw;
+
+width: 99vw;
 height: 12vh;
 left: 0vw;
 top: 0vh;
-
+margin-bottom: -5vh;
 
 background: #F55A5A;  
 
