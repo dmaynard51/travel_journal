@@ -14,7 +14,7 @@ export default function App() {
     })
     
     return (
-        <div>
+        <div className='outter-div'>
             <Topbar/>
             <div className='emptyspace'/>
             <div>
