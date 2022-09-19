@@ -1,5 +1,4 @@
 import React from 'react'
-import Topbar from './components/Topbar'
 import data from './data'
 import Card from "./components/Card"
 
