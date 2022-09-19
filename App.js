@@ -1,6 +1,7 @@
 import React from 'react'
 import data from './data'
 import Card from "./components/Card"
+import Topbar from "./components/Topbar"
 
 export default function App() {
     const items = data.map(item => {
